@@ -1,13 +1,9 @@
 ---
 layout: post
-title:  "Поздравляем победителей Всероссийской олимпиады профессионального мастерства"
-date:   2019-04-30 16:57:16 +0400
+title:  "Welcome to Jekyll!"
+date:   2019-12-01 16:57:16 +0300
 categories: jekyll update
 ---
-
-Вчера Гурьянов Андрей занял 1 место в региональном этапе Всероссийской олимпиады профессионального мастерства обучающихся по специальностям среднего профессионального образования по профильному направлению 11.00.00 Электроника, радиотехника и системы связи, 2019. 
-
-
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
